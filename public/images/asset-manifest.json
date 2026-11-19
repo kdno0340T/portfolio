@@ -1,0 +1,188 @@
+[
+  {
+    "file": "profile/hero-chest-up.webp",
+    "width": 780,
+    "height": 975,
+    "bytes": 32074
+  },
+  {
+    "file": "profile/hero-chest-up@2x.webp",
+    "width": 960,
+    "height": 1200,
+    "bytes": 39436
+  },
+  {
+    "file": "profile/hero-chest-up.jpg",
+    "width": 960,
+    "height": 1200,
+    "bytes": 66575
+  },
+  {
+    "file": "profile/hero-mobile-4x5.webp",
+    "width": 800,
+    "height": 1000,
+    "bytes": 29940
+  },
+  {
+    "file": "profile/hero-chest-up-cutout.webp",
+    "width": 840,
+    "height": 1050,
+    "bytes": 101980
+  },
+  {
+    "file": "profile/hero.webp",
+    "width": 900,
+    "height": 1107,
+    "bytes": 27984
+  },
+  {
+    "file": "profile/hero@2x.webp",
+    "width": 1440,
+    "height": 1771,
+    "bytes": 51040
+  },
+  {
+    "file": "profile/hero-cutout.webp",
+    "width": 1200,
+    "height": 1476,
+    "bytes": 110500
+  },
+  {
+    "file": "personal/outdoor-portrait.webp",
+    "width": 480,
+    "height": 600,
+    "bytes": 63614
+  },
+  {
+    "file": "personal/outdoor-portrait@2x.webp",
+    "width": 960,
+    "height": 1200,
+    "bytes": 171946
+  },
+  {
+    "file": "personal/night-portrait.webp",
+    "width": 480,
+    "height": 600,
+    "bytes": 22324
+  },
+  {
+    "file": "personal/night-portrait@2x.webp",
+    "width": 960,
+    "height": 1200,
+    "bytes": 69246
+  },
+  {
+    "file": "personal/generated-workspace.webp",
+    "width": 480,
+    "height": 600,
+    "bytes": 22578
+  },
+  {
+    "file": "personal/generated-workspace@2x.webp",
+    "width": 960,
+    "height": 1200,
+    "bytes": 64480
+  },
+  {
+    "file": "personal/generated-sketchbook.webp",
+    "width": 480,
+    "height": 600,
+    "bytes": 40306
+  },
+  {
+    "file": "personal/generated-sketchbook@2x.webp",
+    "width": 960,
+    "height": 1200,
+    "bytes": 149162
+  },
+  {
+    "file": "personal/generated-desk-details.webp",
+    "width": 480,
+    "height": 600,
+    "bytes": 21256
+  },
+  {
+    "file": "personal/generated-desk-details@2x.webp",
+    "width": 960,
+    "height": 1200,
+    "bytes": 59028
+  },
+  {
+    "file": "personal/generated-abstract-study.webp",
+    "width": 480,
+    "height": 600,
+    "bytes": 22228
+  },
+  {
+    "file": "personal/generated-abstract-study@2x.webp",
+    "width": 960,
+    "height": 1200,
+    "bytes": 116312
+  },
+  {
+    "file": "projects/enroute.webp",
+    "width": 600,
+    "height": 750,
+    "bytes": 47576
+  },
+  {
+    "file": "projects/enroute@2x.webp",
+    "width": 1200,
+    "height": 1500,
+    "bytes": 151228
+  },
+  {
+    "file": "projects/resqgrid.webp",
+    "width": 600,
+    "height": 750,
+    "bytes": 47284
+  },
+  {
+    "file": "projects/resqgrid@2x.webp",
+    "width": 1200,
+    "height": 1500,
+    "bytes": 148292
+  },
+  {
+    "file": "projects/echoes.webp",
+    "width": 600,
+    "height": 750,
+    "bytes": 29702
+  },
+  {
+    "file": "projects/echoes@2x.webp",
+    "width": 1200,
+    "height": 1500,
+    "bytes": 117172
+  },
+  {
+    "file": "textures/cream-paper-grain.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 3842
+  },
+  {
+    "file": "textures/dark-purple-gradient-noise.webp",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 5834
+  },
+  {
+    "file": "textures/dark-purple-flat-seamless.webp",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 12158
+  },
+  {
+    "file": "previews/hero-cutout-over-cream.jpg",
+    "width": 840,
+    "height": 1050,
+    "bytes": 57080
+  },
+  {
+    "file": "previews/hero-cutout-over-dark-purple.jpg",
+    "width": 840,
+    "height": 1050,
+    "bytes": 60085
+  }
+]

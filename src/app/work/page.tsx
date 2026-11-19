@@ -1,0 +1,7 @@
+import { portfolio } from "@/data/portfolio";
+import { Footer } from "@/components/layout/Footer";
+import { ProjectArtwork } from "@/components/work/ProjectArtwork";
+
+export default function WorkPage() {
+  return <><main id="top"><section className="stub-page" data-theme="light"><p className="mono">SELECTED PROJECTS / {String(portfolio.projects.length).padStart(2, "0")}</p><h1>Work</h1><p>{portfolio.tagline}</p></section><section className="work-section texture-dark" data-theme="dark"><div className="section-topline"><p className="mono">PROJECTS / CURRENT WORK</p><p className="mono">{String(portfolio.projects.length).padStart(2, "0")} PROJECTS</p></div><div className="work-list">{portfolio.projects.map((project) => <article className="work-card" key={project.number}><div className="work-card-link"><div className="work-card-copy"><p className="work-card-number mono">{project.number} <span>/ {String(portfolio.projects.length).padStart(2, "0")}</span></p><h3>{project.name}</h3><p className="work-outcome">{project.description}</p><div className="work-tags">{project.technologies.map((tool) => <span className="mono" key={tool}>{tool}</span>)}</div>{project.status && <p className="work-open mono">{project.status}</p>}</div><div className="work-art"><ProjectArtwork project={project} /></div></div></article>)}</div><p className="mono" style={{ marginTop: 50, color: "var(--taupe)" }}>PROJECTS ARE PERSONAL AND IN PROGRESS</p></section></main><Footer /></>;
+}

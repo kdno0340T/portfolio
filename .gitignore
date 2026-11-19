@@ -6,3 +6,11 @@ coverage/
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
+/reference-capture/
+/source-photos/
+/scripts/capture-reference.mjs
+/.qa/
+/.tmp-video-review/
+/debug.log
+/public/images/incoming/
+/public/images/previews/
